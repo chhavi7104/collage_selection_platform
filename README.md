@@ -4,6 +4,7 @@ A full-stack college discovery platform that helps students search, filter, comp
 
 The project is built as a manual full-stack implementation using React, Express, MongoDB, Docker, and GitHub Actions.
 
+
 ---
 
 ## 🚀 Live Demo
